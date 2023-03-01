@@ -27,7 +27,7 @@ export default function Profile({ isLoggedIn }: any) {
         width: "100%",
         minHeight: "calc(100vh - 144px)",
         padding: "20px 0",
-        backgroundColor:"rgba(14,23,36,0.9)"
+        backgroundColor:"darkblue"
       }}
     >
       <MyTypography variant="h6">{t("text1")}</MyTypography>
